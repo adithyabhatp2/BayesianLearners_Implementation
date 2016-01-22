@@ -1,0 +1,75 @@
+handicapped-infants Class 
+water-project-cost-sharing Class 
+adoption-of-the-budget-resolution Class 
+physician-fee-freeze Class 
+el-salvador-aid Class 
+religious-groups-in-schools Class 
+anti-satellite-test-ban Class 
+aid-to-nicaraguan-contras Class 
+mx-missile Class 
+immigration Class 
+synfuels-corporation-cutback Class 
+education-spending Class 
+superfund-right-to-sue Class 
+crime Class 
+duty-free-exports Class 
+export-administration-act-south-africa Class 
+
+republican republican 0.9999999370934588
+democrat democrat 0.9999999673549699
+democrat democrat 0.999843557770264
+republican democrat 0.9999583664324
+democrat democrat 0.9999962797397058
+republican democrat 0.999894000337431
+republican democrat 0.986818861602483
+democrat democrat 0.9995230730663582
+democrat democrat 0.9998868302155075
+republican democrat 0.9999980239480486
+democrat democrat 0.9999999999614434
+republican democrat 0.8807948522746165
+democrat democrat 0.9999999772246281
+republican republican 0.9999978081847016
+democrat republican 0.9697160504007317
+democrat democrat 0.9855570693406938
+democrat democrat 0.9999999931603164
+democrat democrat 0.9999521229133275
+republican democrat 0.7793236340850298
+democrat democrat 0.9977707680971751
+republican republican 0.9999977609067545
+republican republican 0.9999867759730944
+republican republican 0.9999998069301536
+democrat republican 0.933832780007714
+republican republican 0.9999996221523115
+republican republican 0.9999997245086136
+republican republican 0.9999999370934588
+democrat democrat 0.8243459757290339
+republican democrat 0.999999728358107
+democrat democrat 0.9999989758292097
+republican republican 0.9999999556985439
+republican republican 0.9999996142779068
+democrat democrat 0.999999995716328
+republican republican 0.9999999515182932
+democrat republican 0.5959416469435903
+democrat democrat 0.9999999973242363
+democrat democrat 0.999996380517386
+republican republican 0.9999925691321744
+democrat democrat 0.9999999932053345
+democrat democrat 0.9999999283923189
+democrat democrat 0.9999999973242363
+republican republican 0.8905452994555247
+democrat democrat 0.9999738076227291
+democrat democrat 0.9999999986275099
+democrat democrat 0.9999999586268676
+democrat democrat 0.9999999934560112
+democrat democrat 0.9999999936422257
+democrat democrat 0.9999999997839683
+republican republican 0.9999834209079069
+democrat democrat 0.9999992274284539
+democrat democrat 0.9999999941729041
+republican republican 0.9999516388645179
+democrat democrat 0.9999999802714168
+republican republican 0.9999996142779068
+republican republican 0.9999999370934588
+republican republican 0.9999999685126817
+
+46
